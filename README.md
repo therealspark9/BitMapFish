@@ -28,7 +28,7 @@ This project is done on the IDE Codeblocks, using OpenGL libraries. The code is 
 
 # **Expected outcome**
 
-The current output of our program is given below. We hope to include more elements of an aquarium within this frame. Addition of some flora and background enhancement will be our probable next steps.
+The current output of our program is given in the docx file. We hope to include more elements of an aquarium within this frame. Addition of some flora and background enhancement will be our probable next steps.
 
 ![](RackMultipart20201103-4-1mvnaue_html_2848466170486670.png)
 
