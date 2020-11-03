@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553922583 source:c:\users\sachh\desktop\allcodes\fish\fish\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1555577351 source:c:\users\sachh\desktop\opengl cgm\fish\fish\main.cpp
+	<GL/glut.h>
+	<dos.h>
+	<stdlib.h>
+
+1262791248 c:\program files (x86)\codeblocks-ep\sdk\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1555577351 source:c:\users\sachh\desktop\allcodes\cgm files\fish\main.cpp
+	<GL/glut.h>
+	<dos.h>
+	<stdlib.h>
+
